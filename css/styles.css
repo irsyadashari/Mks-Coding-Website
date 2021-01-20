@@ -3,6 +3,10 @@
     
 }
 
+.text-small {
+    font-size: 15%;
+  }
+
 hr {
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -79,4 +83,8 @@ li {
 
 .bgku4 {
     background-color: cyan;
+}
+
+.bgku5 {
+    background-color: royalblue;
 }
