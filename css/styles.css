@@ -1,0 +1,82 @@
+.big-banner {
+    background:url('../img/team-work.jpeg');
+    
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+.btn-primary {
+    width: 8em;
+    vertical-align: center;
+}
+
+.my-navbar {
+    margin:0 auto;
+}
+
+.navbar-custom{
+    color: white;
+}
+
+.navbar-default .nav-item .navbar-toggle .icon-bar {
+    background-color: white ;
+}
+
+.jumbotron {
+    background-size: cover;
+    background-position: center center;
+    height: 600;
+}
+
+.layer {
+    background-color: rgba(248, 247, 216, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.tinted-image {
+    background-image: 
+      /* top, transparent red */
+      linear-gradient(
+        rgba(252, 201, 34, 0.542), 
+        rgba(248, 194, 17, 0.555)
+      ),
+      /* your image */
+      url(../img/team-work.jpeg);
+  }
+
+h2 {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+.bgku {
+      background-color: red;
+}
+
+.bgku1 {
+    background-color:rosybrown;
+}
+
+.bgku2 {
+    background-color: greenyellow;
+}
+
+.bgku3 {
+    background-color: blueviolet;
+}
+
+.bgku4 {
+    background-color: cyan;
+}
