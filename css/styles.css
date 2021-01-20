@@ -1,11 +1,22 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .big-banner {
     background:url('../img/team-work.jpeg');
-    
 }
 
 .text-small {
     font-size: 15%;
+   
   }
+
+#aligncenter {
+    align-items: center;
+}
+.glyphicon {
+    color: yellow;
+}
 
 hr {
     margin-top: 1rem;
@@ -13,6 +24,15 @@ hr {
     border: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
   }
+
+.btn-circle.btn-sm { 
+    width: 30px; 
+    height: 30px; 
+    padding: 6px 0px; 
+    border-radius: 15px; 
+    font-size: 8px; 
+    text-align: center; 
+} 
 
 .btn-primary {
     width: 8em;
@@ -35,6 +55,7 @@ hr {
     background-size: cover;
     background-position: center center;
     height: 600;
+    border-radius: 0px; 
 }
 
 .layer {
@@ -47,6 +68,7 @@ hr {
 }
 
 .tinted-image {
+    border-radius: 0px; 
     background-image: 
       /* top, transparent red */
       linear-gradient(
@@ -58,10 +80,6 @@ hr {
   }
 
 h2 {
-    color: white;
-}
-
-li {
     color: white;
 }
 
@@ -83,7 +101,7 @@ li {
 
 .bgku4 {
     background-color: cyan;
-}
+} 
 
 .bgku5 {
     background-color: royalblue;
