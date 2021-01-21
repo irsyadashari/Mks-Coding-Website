@@ -6,8 +6,8 @@ html {
     background:url('../img/team-work.jpeg');
 }
 
-.text-small {
-    font-size: 100%;
+.textreduce {
+    font-size: 80%;
 }
 
 #aligncenter {
